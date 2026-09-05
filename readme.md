@@ -1,2 +1,6 @@
-## This is my new repo for new gcp projec
-## Brach edit 
+## Docker Flask Application
+
+- this application is written in python
+- It Shall be Deployed in GKE
+
+
